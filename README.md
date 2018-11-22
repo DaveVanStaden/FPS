@@ -1,4 +1,4 @@
-# FPS
+# First Person Shooter
 This is a First Person Shooter. You move around the map and need to survive for a certain amount of time. you need to shoot the monsters so kill them.
 ## Features
 - First time using RayCast in a good way
